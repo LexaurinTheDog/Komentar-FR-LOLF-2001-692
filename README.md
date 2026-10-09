@@ -1,6 +1,6 @@
 # Commentaire de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances (LOLF)
 
-Commentaire d'un texte de droit français : **loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances** (JORF du 2 août 2001), dite « LOLF ». Il couvre **73 articles** répartis en **4 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances** (JORF du 2 août 2001), dite « LOLF ». Il couvre **79 articles** (73 articles en vigueur et 6 articles abrogés, reproduits pour que la numérotation soit complète) répartis en **4 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 La loi organique constitue la « constitution financière » de l'État : programmation pluriannuelle des finances publiques (titre préliminaire), catégories de lois de finances, ressources et charges de l'État, autorisations budgétaires en missions, programmes et dotations, autorisations d'engagement et crédits de paiement, crédits limitatifs et évaluatifs, mouvements de crédits (virements, transferts, décrets d'avance, annulations, reports), budgets annexes et comptes spéciaux, trésorerie et comptabilités de l'État, principe de sincérité, contenu et vote des lois de finances, information et contrôle du Parlement, assistance de la Cour des comptes, Haut Conseil des finances publiques et mécanisme de correction.
 

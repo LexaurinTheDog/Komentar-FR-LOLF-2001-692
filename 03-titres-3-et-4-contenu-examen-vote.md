@@ -138,6 +138,14 @@ Le deuxième alinéa leur confie la ratification des modifications de crédits o
 
 Le quatrième alinéa spécifie le régime de la loi de fin de gestion, catégorie introduite par la réforme récente : elle ne peut comporter de dispositions relatives aux ressources de l'État (2° du I), aux impositions affectées à des tiers (3° bis du I) ni les dispositions facultatives du 7° du II, sauf celles du b lorsqu'elles affectent directement les dépenses de l'année. Elle peut toutefois modifier, pour l'année en cours, l'affectation d'impositions. Il s'agit donc d'une loi d'ajustement de fin d'exercice, dépourvue de mesures fiscales nouvelles, ce qui la distingue d'une loi rectificative. Le dernier alinéa autorise une présentation partielle ou totale dans les formes de la loi de l'année et rend applicable l'évaluation chiffrée de l'article 55. Les annexes requises figurent à l'article 53, et la seconde partie ne peut être discutée avant l'adoption de la première (art. 42).
 
+### Article 36
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2024-10-08 par LOI n°2021-1836 du 28 décembre 2021 - art. 3 (V))
+
+L'article 36 se situait au chapitre II du titre III, consacré aux dispositions des lois de finances, entre l'article 35 (monopole des lois de finances rectificatives et de fin de gestion pour modifier en cours d'année les dispositions de la loi de finances de l'année) et l'article 37 (contenu de la loi relative aux résultats de la gestion et portant approbation des comptes). Selon la source, il est abrogé à compter du 8 octobre 2024 par l'article 3 de la loi n° 2021-1836 du 28 décembre 2021 ; la mention « (V) » signale que la disposition abrogative figure dans la base LEGI comme en vigueur. Le contenu de l'article abrogé n'est pas reproduit et le commentaire ne le reconstitue pas.
+
 ### Article 37
 
 **Texte de la disposition:**
@@ -166,7 +174,7 @@ Le quatrième alinéa spécifie le régime de la loi de fin de gestion, catégor
 
 *NOTA (source):* NOTA : Conformément à l'article 33 de la loi organique n° 2021-1836 du 28 décembre 2021, ces dispositions entrent en vigueur lors du dépôt du projet de loi de finances pour l'année 2023 et s'appliquent pour la première fois aux lois de finances afférentes à l'année 2023.
 
-Dans la version consolidée reproduite ici, la numérotation passe de l'article 35 à l'article 37 ; aucun article 36 n'y figure. L'article 37 fixe le contenu de la loi relative aux résultats de la gestion et portant approbation des comptes de l'année. Le I A rappelle qu'elle comprend l'article liminaire de l'article 1er I. Le I lui confie d'arrêter le montant définitif des recettes et dépenses du budget et le résultat budgétaire qui en découle ; le II, d'arrêter le montant définitif des ressources et charges de trésorerie ayant concouru à l'équilibre financier, présenté dans un tableau de financement.
+L'article 36, qui le précède dans la numérotation, est abrogé depuis le 8 octobre 2024. L'article 37 fixe le contenu de la loi relative aux résultats de la gestion et portant approbation des comptes de l'année. Le I A rappelle qu'elle comprend l'article liminaire de l'article 1er I. Le I lui confie d'arrêter le montant définitif des recettes et dépenses du budget et le résultat budgétaire qui en découle ; le II, d'arrêter le montant définitif des ressources et charges de trésorerie ayant concouru à l'équilibre financier, présenté dans un tableau de financement.
 
 Le III constitue l'apport de la comptabilité générale : la loi approuve le compte de résultat établi selon les droits constatés (art. 30), affecte au bilan le résultat comptable et approuve le bilan après affectation et ses annexes. Le Parlement n'approuve donc pas seulement une exécution de caisse, mais aussi des états financiers, certifiés par la Cour des comptes (art. 58, 5°).
 

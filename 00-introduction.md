@@ -1,6 +1,6 @@
 # Commentaire de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances (LOLF)
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances, examinée article par article — **73 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances, examinée article par article — **79 articles** : les 73 articles en vigueur dans leur rédaction consolidée et 6 articles abrogés, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -25,7 +25,7 @@ Le commentaire est réparti en quatre chapitres :
 3. Titres III et IV — contenu et présentation, examen et vote des lois de finances (art. 32 à 47) ;
 4. Titres V à VII — information, contrôle et évaluation ; Haut Conseil des finances publiques et mécanisme de correction ; application (art. 48 à 63).
 
-La version consolidée ne reproduit que les articles en vigueur ; les numéros qui n'y figurent pas (article 36 et articles postérieurs à l'article 63, auxquels renvoient certaines NOTA) ne sont pas commentés. Les articles du titre préliminaire sont intitulés dans la source « Article 1 A », « Article 1 B », etc. ; le commentaire reprend cet intitulé dans les titres et emploie dans le texte la forme « article 1er A » utilisée par la loi elle-même. Les particularités matérielles de la source (référence à la « loi de règlement » et renvoi à un « 9° » inexistant à l'article 54, renvoi au « I de l'article 1er J » à l'article 50, double point final à l'article 34, mention de censure entre crochets à l'article 57) sont reproduites telles quelles et signalées.
+Les articles abrogés (article 36 et articles 64 à 68, auxquels renvoient certaines NOTA) sont reproduits tels que la source les présente, avec la date et le texte d'abrogation, afin que la numérotation soit complète ; ils font l'objet d'un commentaire bref, qui ne reconstitue pas leur contenu. Les articles du titre préliminaire sont intitulés dans la source « Article 1 A », « Article 1 B », etc. ; le commentaire reprend cet intitulé dans les titres et emploie dans le texte la forme « article 1er A » utilisée par la loi elle-même. Les particularités matérielles de la source (référence à la « loi de règlement » et renvoi à un « 9° » inexistant à l'article 54, renvoi au « I de l'article 1er J » à l'article 50, double point final à l'article 34, mention de censure entre crochets à l'article 57) sont reproduites telles quelles et signalées.
 
 ## Méthode
 

@@ -454,6 +454,46 @@ Le II définit l'écart important par deux seuils alternatifs : au moins 0,5 % d
 
 Le IV permet au Gouvernement de demander au HCFP de constater que les circonstances exceptionnelles sont réunies ou ont cessé de l'être ; le HCFP répond sans délai par un avis motivé et public, et l'article liminaire du premier projet de loi de finances suivant (art. 1er H) déclare ou lève la situation. Le V étend l'avis du I au respect des objectifs de dépenses de l'article 1er A et, au moins tous les quatre ans, aux écarts entre prévisions macroéconomiques, de recettes et de dépenses et leur réalisation. Le mécanisme est essentiellement procédural : il impose transparence et justification, sans fixer le contenu des mesures correctrices.
 
+### Article 64
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2022-09-26 par LOI n°2021-1836 du 28 décembre 2021 - art. 30)
+
+L'article 64 est placé par la source à la suite de l'article 62, à la fin des dispositions relatives au Haut Conseil des finances publiques et au mécanisme de correction (titre VI). Selon la source, il est abrogé à compter du 26 septembre 2022 par l'article 30 de la loi n° 2021-1836 du 28 décembre 2021 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas. Il ouvre une série de cinq articles (64 à 68) abrogés le même jour et par le même texte.
+
+### Article 65
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2022-09-26 par LOI n°2021-1836 du 28 décembre 2021 - art. 30)
+
+L'article 65 est placé par la source à la suite de l'article 62, à la fin des dispositions relatives au Haut Conseil des finances publiques et au mécanisme de correction (titre VI). Selon la source, il est abrogé à compter du 26 septembre 2022 par l'article 30 de la loi n° 2021-1836 du 28 décembre 2021 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas. Certaines notes (NOTA) d'articles en vigueur renvoient encore à l'article 65, qu'il faut donc lire comme une référence historique.
+
+### Article 66
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2022-09-26 par LOI n°2021-1836 du 28 décembre 2021 - art. 30)
+
+L'article 66 est placé par la source à la suite de l'article 62, à la fin des dispositions relatives au Haut Conseil des finances publiques et au mécanisme de correction (titre VI). Selon la source, il est abrogé à compter du 26 septembre 2022 par l'article 30 de la loi n° 2021-1836 du 28 décembre 2021 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas. Il appartient à la même série que les articles 64, 65, 67 et 68.
+
+### Article 67
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2022-09-26 par LOI n°2021-1836 du 28 décembre 2021 - art. 30)
+
+L'article 67 est placé par la source à la suite de l'article 62, à la fin des dispositions relatives au Haut Conseil des finances publiques et au mécanisme de correction (titre VI). Selon la source, il est abrogé à compter du 26 septembre 2022 par l'article 30 de la loi n° 2021-1836 du 28 décembre 2021 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas. Comme l'article 65, il est encore visé par certaines notes (NOTA) d'articles en vigueur ; ces renvois ont une portée historique.
+
+### Article 68
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2022-09-26 par LOI n°2021-1836 du 28 décembre 2021 - art. 30)
+
+L'article 68 est placé par la source à la suite de l'article 62, à la fin des dispositions relatives au Haut Conseil des finances publiques et au mécanisme de correction (titre VI). Selon la source, il est abrogé à compter du 26 septembre 2022 par l'article 30 de la loi n° 2021-1836 du 28 décembre 2021 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas. Il clôt la série des articles 64 à 68 ; la loi organique se termine aujourd'hui, pour ses dispositions en vigueur, par l'article 63, seul article du titre VII.
+
 #### TITRE VII — APPLICATION DE LA LOI ORGANIQUE
 
 ### Article 63
@@ -466,4 +506,4 @@ Le IV permet au Gouvernement de demander au HCFP de constater que les circonstan
 
 L'article 63, seul article du titre VII, renvoie à un décret en Conseil d'État les modalités d'exécution de la loi organique. Il s'agit d'une habilitation générale du pouvoir réglementaire, qui s'ajoute aux renvois particuliers prévus en divers points du texte, par exemple pour les règles d'utilisation des fonds de concours (art. 17, II), la période complémentaire (art. 28), les dérogations aux taux des prêts et avances (art. 24) ou l'accès aux données couvertes par le secret statistique ou fiscal (art. 57).
 
-La portée de l'habilitation est limitée par la hiérarchie des normes : le décret ne peut que préciser les modalités d'exécution et ne saurait empiéter sur les matières que la Constitution réserve à la loi organique ou aux lois de finances, ni restreindre les prérogatives d'information et de contrôle reconnues au Parlement par les titres IV et V. La NOTA rattache la rédaction actuelle à la réforme de 2021. Dans la version consolidée, aucune disposition transitoire ou finale ne figure après cet article, les articles de la loi auxquels renvoient certaines NOTA (articles 65 et 67) n'y étant pas reproduits.
+La portée de l'habilitation est limitée par la hiérarchie des normes : le décret ne peut que préciser les modalités d'exécution et ne saurait empiéter sur les matières que la Constitution réserve à la loi organique ou aux lois de finances, ni restreindre les prérogatives d'information et de contrôle reconnues au Parlement par les titres IV et V. La NOTA rattache la rédaction actuelle à la réforme de 2021. Dans la version consolidée, aucune disposition transitoire ou finale en vigueur ne suit cet article : les articles 64 à 68, auxquels renvoient encore certaines NOTA (articles 65 et 67), sont abrogés depuis le 26 septembre 2022.
